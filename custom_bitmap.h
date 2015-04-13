@@ -34,11 +34,12 @@ public:
 };
 
 class DWord {
+private:
 	DWORD dec_value;
 	DWORD dword_value;
 	BYTE byte[4];
 public:
-	DWord() {}
+	DWord() : dec_value(0), dword_value(0) {};
 	DWord(DWORD value);
 
 	void setValue(DWORD value);
@@ -58,6 +59,8 @@ public:
 	BYTE get_file_header(int index);
 	BYTE get_bitmap_header(int index);
 	BYTE get_padding() { return padding; }
+	BYTE* get_file_header() { return file_header; }
+	BYTE* get_bitmap_header() { return bitmap_header; }
 };
 
 #endif // CUSTOM_BITMAP_H_INCLUDED

@@ -18,3 +18,35 @@
 1427995382 source:d:\github\explore mandelbrot\setup.cpp
 	"Setup.h"
 
+1428881205 source:d:\github\explore mandelbrot\explore-mandelbrot\custom_bitmap.cpp
+	"custom_bitmap.h"
+
+1428881426 d:\github\explore mandelbrot\explore-mandelbrot\custom_bitmap.h
+
+1428893962 d:\github\explore mandelbrot\explore-mandelbrot\setup.h
+	<cmath>
+	<fstream>
+
+1428899566 source:d:\github\explore mandelbrot\explore-mandelbrot\main.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstring>
+	<string>
+	<ctime>
+	"screen_manip.h"
+	"custom_bitmap.h"
+	"Setup.h"
+
+1428898242 source:d:\github\explore mandelbrot\explore-mandelbrot\setup.cpp
+	"Setup.h"
+	"custom_bitmap.h"
+	<iostream>
+	<limits>
+
+1428785989 d:\github\explore mandelbrot\explore-mandelbrot\screen_manip.h
+
+1428786097 source:d:\github\explore mandelbrot\explore-mandelbrot\screen_manip.cpp
+	"screen_manip.h"
+	<iostream>
+

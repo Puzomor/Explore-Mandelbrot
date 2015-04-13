@@ -9,3 +9,597 @@ zoom: 2^7.32193x
 clocks to complete: 250
 seconds: 0.25s
 ********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.29688
+y: -0.496875i
+zoom: 2^10.3219x
+clocks to complete: 737
+seconds: 0.737s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.29688
+y: -0.496875i
+zoom: 2^10.3219x
+clocks to complete: 925
+seconds: 0.925s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.29688
+y: -0.496875i
+zoom: 2^10.3219x
+clocks to complete: 916
+seconds: 0.916s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 100
+x: -1.29688
+y: -0.496875i
+zoom: 2^10.3219x
+clocks to complete: 672
+seconds: 0.672s
+********************************
+filename:t.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 20000
+x: -1.29688
+y: -0.496875i
+zoom: 2^10.3219x
+clocks to complete: 3717
+seconds: 3.717s
+********************************
+filename:r.bmp
+width: 20
+height: 20
+file size: 0MiB (1254B)
+iterations: 50
+x: nan
+y: nani
+zoom: 2^-infx
+clocks to complete: 348
+seconds: 0.348s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 50
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 3529
+seconds: 3.529s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 20000
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 18333
+seconds: 18.333s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 20000
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 17978
+seconds: 17.978s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 5000
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 7292
+seconds: 7.292s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 5000
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 7827
+seconds: 7.827s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 20000
+x: -0.636719
+y: -0.724805i
+zoom: 2^12.3219x
+clocks to complete: 19426
+seconds: 19.426s
+********************************
+filename:r.bmp
+width: 800
+height: 800
+file size: 1MiB (1920054B)
+iterations: 50
+x: -1.59375
+y: -1.44063i
+zoom: 2^8.32193x
+clocks to complete: 4523
+seconds: 4.523s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.46875
+y: -1.31875i
+zoom: 2^7.32193x
+clocks to complete: 520
+seconds: 0.52s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.46875
+y: -1.31875i
+zoom: 2^7.32193x
+clocks to complete: 256
+seconds: 0.256s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -0.28125
+y: -1.06328i
+zoom: 2^10.3219x
+clocks to complete: 869
+seconds: 0.869s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 500
+x: -0.28125
+y: -1.06328i
+zoom: 2^10.3219x
+clocks to complete: 1233
+seconds: 1.233s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 500
+x: -0.28125
+y: -1.06328i
+zoom: 2^10.3219x
+clocks to complete: 419
+seconds: 0.419s
+********************************
+filename:r.bmp
+width: 160
+height: 160
+file size: 0MiB (76854B)
+iterations: 500
+x: -0.234375
+y: -1.01758i
+zoom: 2^9x
+clocks to complete: 108
+seconds: 0.108s
+********************************
+filename:r.bmp
+width: 80
+height: 80
+file size: 0MiB (19254B)
+iterations: 50
+x: 0
+y: -0.03125i
+zoom: 2^5x
+clocks to complete: 39
+seconds: 0.039s
+********************************
+filename:r.bmp
+width: 120
+height: 120
+file size: 0MiB (43254B)
+iterations: 50
+x: -0.625
+y: -0.65625i
+zoom: 2^5x
+clocks to complete: 369
+seconds: 0.369s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 605
+seconds: 0.605s
+********************************
+filename:t.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 500
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 1535
+seconds: 1.535s
+********************************
+filename:t.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 5000
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 5483
+seconds: 5.483s
+********************************
+filename:y.bmp
+width: 1000
+height: 1000
+file size: 2MiB (3000054B)
+iterations: 5000
+x: -1.19792
+y: -1.20052i
+zoom: 2^8.58496x
+clocks to complete: 28561
+seconds: 28.561s
+********************************
+filename:r.bmp
+width: 10
+height: 10
+file size: 0MiB (354B)
+iterations: 5000
+x: nan
+y: nani
+zoom: 2^-infx
+clocks to complete: 645
+seconds: 0.645s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 20
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 254
+seconds: 0.254s
+********************************
+filename:r.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 20
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 24131
+seconds: 24.131s
+********************************
+filename:r.bmp
+width: 1280
+height: 800
+file size: 2MiB (3072054B)
+iterations: 8000
+x: -1.37288
+y: 0.0859885i
+zoom: 2^26.3219x
+clocks to complete: 25118
+seconds: 25.118s
+********************************
+filename:r.bmp
+width: 3500
+height: 2500
+file size: 25MiB (26250054B)
+iterations: 20000
+x: -1.37288
+y: 0.0859882i
+zoom: 2^27.9542x
+clocks to complete: 366598
+seconds: 366.598s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 265
+seconds: 0.265s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 100
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 296
+seconds: 0.296s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 100
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 313
+seconds: 0.313s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 200
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 390
+seconds: 0.39s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 500
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 578
+seconds: 0.578s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 1000
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 938
+seconds: 0.938s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 2000
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 1750
+seconds: 1.75s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 266
+seconds: 0.266s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 234
+seconds: 0.234s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 219
+seconds: 0.219s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.46875
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 217
+seconds: 0.217s
+********************************
+filename:r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50
+x: -1.46875
+y: -1.7875i
+zoom: 2^7.32193x
+clocks to complete: 219
+seconds: 0.219s
+********************************
+filename:BLAZEIT.bmp
+width: 420
+height: 420
+file size: 0MiB (529254B)
+iterations: 50
+x: -1.0625
+y: -1.06875i
+zoom: 2^7.32193x
+clocks to complete: 262
+seconds: 0.262s
+********************************
+filename:BLAZEITMORE.bmp
+width: 440
+height: 440
+file size: 0MiB (580854B)
+iterations: 50
+x: -1.125
+y: -1.13125i
+zoom: 2^7.32193x
+clocks to complete: 280
+seconds: 0.28s
+********************************
+filename:r.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 5115
+seconds: 5.115s
+********************************
+filename:r2.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 5074
+seconds: 5.074s
+********************************
+filename:.bmp
+width: 0
+height: 4675040
+file size: 0MiB (54B)
+iterations: 50
+x: nan
+y: nani
+zoom: 2^-infx
+clocks to complete: 163
+seconds: 0.163s
+********************************
+filename:e.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 5449
+seconds: 5.449s
+********************************
+filename:e2.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 5410
+seconds: 5.41s
+********************************
+filename:g.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 5412
+seconds: 5.412s
+********************************
+filename:g.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 4829
+seconds: 4.829s
+********************************
+filename:f.bmp
+width: 2000
+height: 2000
+file size: 11MiB (12000054B)
+iterations: 50
+x: -1.2
+y: -1.20125i
+zoom: 2^9.64386x
+clocks to complete: 4634
+seconds: 4.634s
+********************************
+filename: 200.bmp
+width: 200
+height: 200
+file size: 0MiB (120054B)
+iterations: 500
+x: -1.4375
+y: -0.953125i
+zoom: 2^6x
+clocks to complete: 141
+seconds: 0.141s
+********************************
+filename: r.bmp
+width: 400
+height: 400
+file size: 0MiB (480054B)
+iterations: 50000
+x: -1.5
+y: -1.00625i
+zoom: 2^7.32193x
+clocks to complete: 35751
+seconds: 35.751s
+********************************
